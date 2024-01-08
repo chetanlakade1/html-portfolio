@@ -1,2 +1,2 @@
-# Chetan Lakade Porgfolio.html
-Chetan's Portfolio
+# html-portfolio
+Chetan Lakade
